@@ -1,51 +1,27 @@
 {
   "version": 1,
-  "updated": "2026-11-16T01:20:00.000Z",
-  "rotateSeconds": 8,
+  "updated": "2026-11-15T02:22:54.233Z",
+  "rotateSeconds": 5,
   "slots": [
     {
-      "id": "example-2026-11",
+      "id": "term24hr",
       "enabled": true,
-      "url": "https://github.com/Cheumklang/NTAPI",
+      "url": "https://www.term24hr.in.th/",
       "media": {
         "type": "image",
-        "file": "media/example-2026-11.webp",
+        "file": "media/term24hr.webp",
         "ratio": "2:1",
-        "alt": "ตัวอย่างสปอนเซอร์ 2:1"
+        "alt": "เว็บเติมเกม ราคาประหยัด สนใจจิ้มเลย!"
       },
       "text": {
-        "th": { "label": "ผู้สนับสนุน", "title": "ตัวอย่าง 2:1 — แถบแนวนอน (ค่าเริ่มต้น)" },
-        "en": { "label": "Sponsor", "title": "Sample 2:1 — wide band (default)" }
-      }
-    },
-    {
-      "id": "example-1x1",
-      "enabled": true,
-      "url": "https://github.com/Cheumklang/NTAPI",
-      "media": {
-        "type": "image",
-        "file": "media/example-1x1.webp",
-        "ratio": "1:1",
-        "alt": "ตัวอย่างสปอนเซอร์ 1:1"
-      },
-      "text": {
-        "th": { "label": "ผู้สนับสนุน", "title": "ตัวอย่าง 1:1 — จัตุรัส" },
-        "en": { "label": "Sponsor", "title": "Sample 1:1 — square" }
-      }
-    },
-    {
-      "id": "example-4x5",
-      "enabled": true,
-      "url": "https://github.com/Cheumklang/NTAPI",
-      "media": {
-        "type": "image",
-        "file": "media/example-4x5.webp",
-        "ratio": "4:5",
-        "alt": "ตัวอย่างสปอนเซอร์ 4:5"
-      },
-      "text": {
-        "th": { "label": "ผู้สนับสนุน", "title": "ตัวอย่าง 4:5 — แนวตั้ง" },
-        "en": { "label": "Sponsor", "title": "Sample 4:5 — portrait" }
+        "th": {
+          "label": "ผู้สนับสนุน",
+          "title": "เว็บเติมเกม ราคาประหยัด สนใจจิ้มเลย!"
+        },
+        "en": {
+          "label": "Sponsor",
+          "title": "เว็บเติมเกม ราคาประหยัด สนใจจิ้มเลย!"
+        }
       }
     }
   ]
