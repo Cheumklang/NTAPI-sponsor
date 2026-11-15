@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-15T05:12:58.423Z",
+  "updated": "2026-11-15T06:07:54.886Z",
   "rotateSeconds": 15,
   "slots": [
     {
@@ -32,6 +32,50 @@
         "type": "image",
         "file": "media/ads2.webp",
         "ratio": "1:1",
+        "alt": "บริการเติมเกมออนไลน์ ราคานี้จะเอามั้ยกำไร!"
+      },
+      "text": {
+        "th": {
+          "label": "ผู้สนับสนุน",
+          "title": "บริการเติมเกมออนไลน์ ราคานี้จะเอามั้ยกำไร!"
+        },
+        "en": {
+          "label": "Sponsor",
+          "title": "บริการเติมเกมออนไลน์ ราคานี้จะเอามั้ยกำไร!"
+        }
+      }
+    },
+    {
+      "id": "t1",
+      "enabled": true,
+      "url": "https://www.term24hr.in.th/",
+      "media": {
+        "type": "video",
+        "file": "media/t1.mp4",
+        "ratio": "4:5",
+        "poster": "media/t1-poster.webp",
+        "alt": "บริการเติมเกมออนไลน์ ราคานี้จะเอามั้ยกำไร!"
+      },
+      "text": {
+        "th": {
+          "label": "ผู้สนับสนุน",
+          "title": "บริการเติมเกมออนไลน์ ราคานี้จะเอามั้ยกำไร!"
+        },
+        "en": {
+          "label": "Sponsor",
+          "title": "บริการเติมเกมออนไลน์ ราคานี้จะเอามั้ยกำไร!"
+        }
+      }
+    },
+    {
+      "id": "t2",
+      "enabled": true,
+      "url": "https://www.term24hr.in.th/",
+      "media": {
+        "type": "video",
+        "file": "media/t2.mp4",
+        "ratio": "4:5",
+        "poster": "media/t2-poster.webp",
         "alt": "บริการเติมเกมออนไลน์ ราคานี้จะเอามั้ยกำไร!"
       },
       "text": {
