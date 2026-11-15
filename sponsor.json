@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updated": "2026-11-15T04:52:30.563Z",
+  "updated": "2026-11-15T04:56:49.875Z",
   "rotateSeconds": 15,
   "slots": [
     {
-      "id": "sponsor-2026-11",
+      "id": "ads",
       "enabled": true,
       "url": "https://www.term24hr.in.th/",
       "media": {
         "type": "image",
-        "file": "media/sponsor-2026-11.webp",
+        "file": "media/ads.webp",
         "ratio": "1:1",
         "alt": "บริการเติมเกมออนไลน์ ราคานี้จะเอามั้ยกำไร!"
       },
