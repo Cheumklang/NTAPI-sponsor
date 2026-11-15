@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-15T03:21:31.245Z",
+  "updated": "2026-11-15T03:22:01.736Z",
   "rotateSeconds": 5,
   "slots": [
     {
@@ -10,7 +10,7 @@
       "media": {
         "type": "image",
         "file": "media/term24hr.webp",
-        "ratio": "2:1",
+        "ratio": "1:1",
         "alt": "เว็บเติมเกม ราคาประหยัด สนใจจิ้มเลย!"
       },
       "text": {
