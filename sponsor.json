@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-11-16T00:00:00.000Z",
+  "rotateSeconds": 15,
+  "slots": [
+    {
+      "id": "example-2026-11",
+      "enabled": true,
+      "url": "https://github.com/Cheumklang/NTAPI",
+      "media": {
+        "type": "image",
+        "file": "media/example-2026-11.webp",
+        "alt": "ตัวอย่างสปอนเซอร์"
+      },
+      "text": {
+        "th": {
+          "label": "ผู้สนับสนุน",
+          "title": "ตัวอย่างสปอนเซอร์ — แทนที่ได้จาก NTAPI ADS"
+        },
+        "en": {
+          "label": "Sponsor",
+          "title": "Sample sponsor — replace it from NTAPI ADS"
+        }
+      }
+    }
+  ]
+}
