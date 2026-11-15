@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-15T09:27:23.096Z",
+  "updated": "2026-11-15T09:49:00.083Z",
   "rotateSeconds": 15,
   "slots": [
     {
@@ -32,6 +32,7 @@
         "type": "video",
         "file": "media/t1.mp4",
         "ratio": "9:16",
+        "poster": "media/t1-poster.webp",
         "alt": "บริการเติมเกมออนไลน์ ราคานี้จะเอามั้ยกำไร!"
       },
       "text": {
