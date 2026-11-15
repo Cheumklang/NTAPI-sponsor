@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-15T06:22:21.509Z",
+  "updated": "2026-11-15T06:29:22.648Z",
   "rotateSeconds": 15,
   "slots": [
     {
@@ -27,7 +27,7 @@
     {
       "id": "t1",
       "enabled": true,
-      "url": "https://www.term24hr.in.th/",
+      "url": "https://www.facebook.com/enootip9",
       "media": {
         "type": "video",
         "file": "media/t1.mp4",
