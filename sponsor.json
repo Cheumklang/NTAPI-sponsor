@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-15T10:45:03.456Z",
+  "updated": "2026-11-16T18:01:06.547Z",
   "rotateSeconds": 15,
   "slots": [
     {
@@ -21,28 +21,6 @@
         "en": {
           "label": "Sponsor",
           "title": "บริการเติมเกมออนไลน์ ราคานี้จะเอามั้ยกำไร!"
-        }
-      }
-    },
-    {
-      "id": "tip1",
-      "enabled": true,
-      "url": "https://www.facebook.com/enootip9",
-      "media": {
-        "type": "video",
-        "file": "media/tip1.mp4",
-        "ratio": "4:5",
-        "poster": "media/tip1-poster.webp",
-        "alt": "อันนี้ไม่มีไร แค่แปะเฉยๆ แฟนผมสวย!"
-      },
-      "text": {
-        "th": {
-          "label": "ผู้สนับสนุน",
-          "title": "อันนี้ไม่มีไร แค่แปะเฉยๆ แฟนผมสวย!"
-        },
-        "en": {
-          "label": "Sponsor",
-          "title": "อันนี้ไม่มีไร แค่แปะเฉยๆ แฟนผมสวย!"
         }
       }
     }
